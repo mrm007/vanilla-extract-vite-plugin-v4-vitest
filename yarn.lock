@@ -663,10 +663,10 @@
   resolved "https://registry.yarnpkg.com/@vanilla-extract/recipes/-/recipes-0.5.1.tgz#617d1a0375af60835341770397810317d2f61998"
   integrity sha512-7dCuBgPQQ/89siQ0w2lkfjgkmToPUUDzFlHf5DRmt9ykiiycfA52tmPJ2RI/mr7jXi7U/vEN2aGP9QJSXEpGlA==
 
-"@vanilla-extract/vite-plugin@vite-plugin-resolve-plugins":
-  version "0.0.0-vite-plugin-resolve-plugins-20240129110504"
-  resolved "https://registry.yarnpkg.com/@vanilla-extract/vite-plugin/-/vite-plugin-0.0.0-vite-plugin-resolve-plugins-20240129110504.tgz#7c7627cd41020f9ac3c31bca587e2ee6378016de"
-  integrity sha512-HvMwYZv6t8nZF6CxSWebCFUxp3SvHA2Y/R8+udWR79VfpYZX7EjVN1ZcX93WjLFJJvJLL91VabtCHxQ5JgdZ/Q==
+"@vanilla-extract/vite-plugin@vite-plugin-skip-vitest-plugins":
+  version "0.0.0-vite-plugin-skip-vitest-plugins-20240129123812"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/vite-plugin/-/vite-plugin-0.0.0-vite-plugin-skip-vitest-plugins-20240129123812.tgz#954cc06a98445b8f083222b92ef63ceea3c86118"
+  integrity sha512-Genbku/ieVoZGpjZ363lzziQUWUD4xeXC2jEq1/YvYUdbo99RGX2aZCDh10Pu8pUU7mPPbN1qyXBrDEpOfASpg==
   dependencies:
     "@vanilla-extract/integration" "^6.4.0"
 
