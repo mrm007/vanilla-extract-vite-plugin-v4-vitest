@@ -1,3 +1,4 @@
+import clsx from 'clsx';
 import { H1 as H1Style } from "./header.css.ts";
 
 export function H1({ className, hero, italic, ...rest }) {

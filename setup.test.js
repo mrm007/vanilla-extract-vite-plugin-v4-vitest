@@ -1,6 +1,6 @@
 import "@testing-library/jest-dom/vitest";
 import { cleanup } from "@testing-library/react";
-// import "@vanilla-extract/css/disableRuntimeStyles";
+import "@vanilla-extract/css/disableRuntimeStyles";
 import ResizeObserver from "resize-observer-polyfill";
 
 global.ResizeObserver = ResizeObserver;
